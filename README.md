@@ -22,7 +22,7 @@ Banner görseli ve fotoğraflar
 
 🛠 Kullanılan Teknolojiler
 
-HTML5
+HTML
 
 CSS3
 
