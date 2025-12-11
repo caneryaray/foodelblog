@@ -24,7 +24,7 @@ Banner görseli ve fotoğraflar
 
 HTML
 
-CSS3
+CSS
 
 
 📂 Proje Yapısı
