@@ -1,5 +1,4 @@
 
-![Uploading banner (1).jpg…]()
 
 
 
