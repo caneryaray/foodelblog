@@ -1,5 +1,5 @@
 
-![banner (1)](https://github.com/user-attachments/assets/cd078519-9692-4034-abd5-72750df2fd9d)
+![resim](https://github.com/user-attachments/assets/394e04d7-874c-4d8f-a650-5d512125e54b)
 
 
 
